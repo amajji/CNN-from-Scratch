@@ -3,7 +3,7 @@ Data scientist | [Anass MAJJI](https://www.linkedin.com/in/anass-majji-729773157
 ***
 
 ## :monocle_face: Description
-- This project contains an implementation of CNN from scratch. </br>
+- This project contains an implementation of CNN (Convolutional neural network) from scratch. </br>
 
  
 
